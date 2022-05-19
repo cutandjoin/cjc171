@@ -389,7 +389,7 @@ FILE "LR_black_phrase_02.mp3" MP3
     INDEX 01 02:47:53
   TRACK 130 AUDIO
     TITLE "LR_black_phrase_02_0130"
-    INDEX 01 02:47:75
+    INDEX 01 02:48:00
   TRACK 131 AUDIO
     TITLE "LR_black_phrase_02_0131"
     INDEX 01 02:50:32
@@ -659,7 +659,7 @@ FILE "LR_black_phrase_02.mp3" MP3
     INDEX 01 04:51:46
   TRACK 220 AUDIO
     TITLE "LR_black_phrase_02_0220"
-    INDEX 01 04:51:75
+    INDEX 01 04:52:00
   TRACK 221 AUDIO
     TITLE "LR_black_phrase_02_0221"
     INDEX 01 04:54:62
@@ -1115,7 +1115,7 @@ FILE "LR_black_phrase_02.mp3" MP3
     INDEX 01 08:21:69
   TRACK 372 AUDIO
     TITLE "LR_black_phrase_02_0372"
-    INDEX 01 08:22:75
+    INDEX 01 08:23:00
   TRACK 373 AUDIO
     TITLE "LR_black_phrase_02_0373"
     INDEX 01 08:24:05
@@ -1271,7 +1271,7 @@ FILE "LR_black_phrase_02.mp3" MP3
     INDEX 01 09:32:34
   TRACK 424 AUDIO
     TITLE "LR_black_phrase_02_0424"
-    INDEX 01 09:32:75
+    INDEX 01 09:33:00
   TRACK 425 AUDIO
     TITLE "LR_black_phrase_02_0425"
     INDEX 01 09:36:51
@@ -2165,7 +2165,7 @@ FILE "LR_black_phrase_02.mp3" MP3
     INDEX 01 16:21:73
   TRACK 722 AUDIO
     TITLE "LR_black_phrase_02_0722"
-    INDEX 01 16:22:75
+    INDEX 01 16:23:00
   TRACK 723 AUDIO
     TITLE "LR_black_phrase_02_0723"
     INDEX 01 16:24:26
@@ -2369,7 +2369,7 @@ FILE "LR_black_phrase_02.mp3" MP3
     INDEX 01 17:50:46
   TRACK 790 AUDIO
     TITLE "LR_black_phrase_02_0790"
-    INDEX 01 17:50:75
+    INDEX 01 17:51:00
   TRACK 791 AUDIO
     TITLE "LR_black_phrase_02_0791"
     INDEX 01 17:53:34
@@ -2609,7 +2609,7 @@ FILE "LR_black_phrase_02.mp3" MP3
     INDEX 01 19:40:46
   TRACK 870 AUDIO
     TITLE "LR_black_phrase_02_0870"
-    INDEX 01 19:40:75
+    INDEX 01 19:41:00
   TRACK 871 AUDIO
     TITLE "LR_black_phrase_02_0871"
     INDEX 01 19:43:28
@@ -2636,7 +2636,7 @@ FILE "LR_black_phrase_02.mp3" MP3
     INDEX 01 19:52:45
   TRACK 879 AUDIO
     TITLE "LR_black_phrase_02_0879"
-    INDEX 01 19:54:75
+    INDEX 01 19:55:00
   TRACK 880 AUDIO
     TITLE "LR_black_phrase_02_0880"
     INDEX 01 19:55:30
@@ -2783,7 +2783,7 @@ FILE "LR_black_phrase_02.mp3" MP3
     INDEX 01 21:03:35
   TRACK 928 AUDIO
     TITLE "LR_black_phrase_02_0928"
-    INDEX 01 21:03:75
+    INDEX 01 21:04:00
   TRACK 929 AUDIO
     TITLE "LR_black_phrase_02_0929"
     INDEX 01 21:06:40
@@ -2873,7 +2873,7 @@ FILE "LR_black_phrase_02.mp3" MP3
     INDEX 01 21:49:41
   TRACK 958 AUDIO
     TITLE "LR_black_phrase_02_0958"
-    INDEX 01 21:49:75
+    INDEX 01 21:50:00
   TRACK 959 AUDIO
     TITLE "LR_black_phrase_02_0959"
     INDEX 01 21:52:18

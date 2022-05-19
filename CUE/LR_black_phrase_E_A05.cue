@@ -317,7 +317,7 @@ FILE "LR_black_phrase_E_A05.mp3" MP3
     INDEX 01 02:18:54
   TRACK 106 AUDIO
     TITLE "LR_black_phrase_E_A05_106"
-    INDEX 01 02:18:75
+    INDEX 01 02:19:00
   TRACK 107 AUDIO
     TITLE "LR_black_phrase_E_A05_107"
     INDEX 01 02:21:66
@@ -542,4 +542,4 @@ FILE "LR_black_phrase_E_A05.mp3" MP3
     INDEX 01 03:56:68
   TRACK 181 AUDIO
     TITLE "LR_black_phrase_E_A05_181"
-    INDEX 01 03:58:75
+    INDEX 01 03:59:00

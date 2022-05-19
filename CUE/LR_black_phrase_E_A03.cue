@@ -500,7 +500,7 @@ FILE "LR_black_phrase_E_A03.mp3" MP3
     INDEX 01 03:34:02
   TRACK 167 AUDIO
     TITLE "LR_black_phrase_E_A03_167"
-    INDEX 01 03:36:75
+    INDEX 01 03:37:00
   TRACK 168 AUDIO
     TITLE "LR_black_phrase_E_A03_168"
     INDEX 01 03:37:51

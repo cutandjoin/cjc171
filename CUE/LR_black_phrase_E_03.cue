@@ -113,7 +113,7 @@ FILE "LR_black_phrase_E_03.mp3" MP3
     INDEX 01 00:46:71
   TRACK 38 AUDIO
     TITLE "LR_black_phrase_E_03_038"
-    INDEX 01 00:47:75
+    INDEX 01 00:48:00
   TRACK 39 AUDIO
     TITLE "LR_black_phrase_E_03_039"
     INDEX 01 00:49:17
@@ -278,7 +278,7 @@ FILE "LR_black_phrase_E_03.mp3" MP3
     INDEX 01 02:00:48
   TRACK 93 AUDIO
     TITLE "LR_black_phrase_E_03_093"
-    INDEX 01 02:01:75
+    INDEX 01 02:02:00
   TRACK 94 AUDIO
     TITLE "LR_black_phrase_E_03_094"
     INDEX 01 02:02:33
@@ -356,7 +356,7 @@ FILE "LR_black_phrase_E_03.mp3" MP3
     INDEX 01 02:34:70
   TRACK 119 AUDIO
     TITLE "LR_black_phrase_E_03_119"
-    INDEX 01 02:36:75
+    INDEX 01 02:37:00
   TRACK 120 AUDIO
     TITLE "LR_black_phrase_E_03_120"
     INDEX 01 02:37:47
@@ -527,7 +527,7 @@ FILE "LR_black_phrase_E_03.mp3" MP3
     INDEX 01 03:50:72
   TRACK 176 AUDIO
     TITLE "LR_black_phrase_E_03_176"
-    INDEX 01 03:51:75
+    INDEX 01 03:52:00
   TRACK 177 AUDIO
     TITLE "LR_black_phrase_E_03_177"
     INDEX 01 03:53:27
@@ -785,7 +785,7 @@ FILE "LR_black_phrase_E_03.mp3" MP3
     INDEX 01 05:42:43
   TRACK 262 AUDIO
     TITLE "LR_black_phrase_E_03_262"
-    INDEX 01 05:42:75
+    INDEX 01 05:43:00
   TRACK 263 AUDIO
     TITLE "LR_black_phrase_E_03_263"
     INDEX 01 05:44:56
@@ -872,7 +872,7 @@ FILE "LR_black_phrase_E_03.mp3" MP3
     INDEX 01 06:19:64
   TRACK 291 AUDIO
     TITLE "LR_black_phrase_E_03_291"
-    INDEX 01 06:20:75
+    INDEX 01 06:21:00
   TRACK 292 AUDIO
     TITLE "LR_black_phrase_E_03_292"
     INDEX 01 06:21:30
@@ -1076,7 +1076,7 @@ FILE "LR_black_phrase_E_03.mp3" MP3
     INDEX 01 07:48:05
   TRACK 359 AUDIO
     TITLE "LR_black_phrase_E_03_359"
-    INDEX 01 07:49:75
+    INDEX 01 07:50:00
   TRACK 360 AUDIO
     TITLE "LR_black_phrase_E_03_360"
     INDEX 01 07:50:45
@@ -1736,7 +1736,7 @@ FILE "LR_black_phrase_E_03.mp3" MP3
     INDEX 01 12:43:62
   TRACK 579 AUDIO
     TITLE "LR_black_phrase_E_03_579"
-    INDEX 01 12:44:75
+    INDEX 01 12:45:00
   TRACK 580 AUDIO
     TITLE "LR_black_phrase_E_03_580"
     INDEX 01 12:45:20

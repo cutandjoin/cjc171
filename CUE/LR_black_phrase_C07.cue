@@ -587,7 +587,7 @@ FILE "LR_black_phrase_C07.mp3" MP3
     INDEX 01 04:22:74
   TRACK 196 AUDIO
     TITLE "LR_black_phrase_C07_196"
-    INDEX 01 04:23:75
+    INDEX 01 04:24:00
   TRACK 197 AUDIO
     TITLE "LR_black_phrase_C07_197"
     INDEX 01 04:26:07

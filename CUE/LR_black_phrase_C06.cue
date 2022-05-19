@@ -308,7 +308,7 @@ FILE "LR_black_phrase_C06.mp3" MP3
     INDEX 01 02:12:02
   TRACK 103 AUDIO
     TITLE "LR_black_phrase_C06_103"
-    INDEX 01 02:12:75
+    INDEX 01 02:13:00
   TRACK 104 AUDIO
     TITLE "LR_black_phrase_C06_104"
     INDEX 01 02:13:37
@@ -494,7 +494,7 @@ FILE "LR_black_phrase_C06.mp3" MP3
     INDEX 01 03:28:48
   TRACK 165 AUDIO
     TITLE "LR_black_phrase_C06_165"
-    INDEX 01 03:30:75
+    INDEX 01 03:31:00
   TRACK 166 AUDIO
     TITLE "LR_black_phrase_C06_166"
     INDEX 01 03:32:01

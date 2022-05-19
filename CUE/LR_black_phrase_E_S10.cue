@@ -17,7 +17,7 @@ FILE "LR_black_phrase_E_S10.mp3" MP3
     INDEX 01 00:04:20
   TRACK 06 AUDIO
     TITLE "LR_black_phrase_E_S10_006"
-    INDEX 01 00:04:75
+    INDEX 01 00:05:00
   TRACK 07 AUDIO
     TITLE "LR_black_phrase_E_S10_007"
     INDEX 01 00:07:12
@@ -302,7 +302,7 @@ FILE "LR_black_phrase_E_S10.mp3" MP3
     INDEX 01 02:06:07
   TRACK 101 AUDIO
     TITLE "LR_black_phrase_E_S10_101"
-    INDEX 01 02:08:75
+    INDEX 01 02:09:00
   TRACK 102 AUDIO
     TITLE "LR_black_phrase_E_S10_102"
     INDEX 01 02:09:53

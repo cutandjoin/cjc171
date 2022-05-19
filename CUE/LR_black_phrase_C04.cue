@@ -356,7 +356,7 @@ FILE "LR_black_phrase_C04.mp3" MP3
     INDEX 01 02:24:74
   TRACK 119 AUDIO
     TITLE "LR_black_phrase_C04_119"
-    INDEX 01 02:26:75
+    INDEX 01 02:27:00
   TRACK 120 AUDIO
     TITLE "LR_black_phrase_C04_120"
     INDEX 01 02:27:17

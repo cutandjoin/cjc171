@@ -257,7 +257,7 @@ FILE "LR_black_phrase_E_S03.mp3" MP3
     INDEX 01 01:54:06
   TRACK 86 AUDIO
     TITLE "LR_black_phrase_E_S03_086"
-    INDEX 01 01:54:75
+    INDEX 01 01:55:00
   TRACK 87 AUDIO
     TITLE "LR_black_phrase_E_S03_087"
     INDEX 01 01:56:33

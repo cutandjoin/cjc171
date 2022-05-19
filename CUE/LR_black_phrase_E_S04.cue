@@ -104,7 +104,7 @@ FILE "LR_black_phrase_E_S04.mp3" MP3
     INDEX 01 00:40:43
   TRACK 35 AUDIO
     TITLE "LR_black_phrase_E_S04_035"
-    INDEX 01 00:42:75
+    INDEX 01 00:43:00
   TRACK 36 AUDIO
     TITLE "LR_black_phrase_E_S04_036"
     INDEX 01 00:43:55
@@ -167,7 +167,7 @@ FILE "LR_black_phrase_E_S04.mp3" MP3
     INDEX 01 01:07:71
   TRACK 56 AUDIO
     TITLE "LR_black_phrase_E_S04_056"
-    INDEX 01 01:08:75
+    INDEX 01 01:09:00
   TRACK 57 AUDIO
     TITLE "LR_black_phrase_E_S04_057"
     INDEX 01 01:10:34

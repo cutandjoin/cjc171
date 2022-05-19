@@ -242,7 +242,7 @@ FILE "LR_black_phrase_E_05.mp3" MP3
     INDEX 01 01:46:52
   TRACK 81 AUDIO
     TITLE "LR_black_phrase_E_05_081"
-    INDEX 01 01:47:75
+    INDEX 01 01:48:00
   TRACK 82 AUDIO
     TITLE "LR_black_phrase_E_05_082"
     INDEX 01 01:48:21
@@ -257,7 +257,7 @@ FILE "LR_black_phrase_E_05.mp3" MP3
     INDEX 01 01:54:04
   TRACK 86 AUDIO
     TITLE "LR_black_phrase_E_05_086"
-    INDEX 01 01:54:75
+    INDEX 01 01:55:00
   TRACK 87 AUDIO
     TITLE "LR_black_phrase_E_05_087"
     INDEX 01 01:56:33
@@ -359,7 +359,7 @@ FILE "LR_black_phrase_E_05.mp3" MP3
     INDEX 01 02:37:30
   TRACK 120 AUDIO
     TITLE "LR_black_phrase_E_05_120"
-    INDEX 01 02:37:75
+    INDEX 01 02:38:00
   TRACK 121 AUDIO
     TITLE "LR_black_phrase_E_05_121"
     INDEX 01 02:40:18
@@ -461,7 +461,7 @@ FILE "LR_black_phrase_E_05.mp3" MP3
     INDEX 01 03:23:49
   TRACK 154 AUDIO
     TITLE "LR_black_phrase_E_05_154"
-    INDEX 01 03:23:75
+    INDEX 01 03:24:00
   TRACK 155 AUDIO
     TITLE "LR_black_phrase_E_05_155"
     INDEX 01 03:26:63
@@ -1517,7 +1517,7 @@ FILE "LR_black_phrase_E_05.mp3" MP3
     INDEX 01 11:04:70
   TRACK 506 AUDIO
     TITLE "LR_black_phrase_E_05_506"
-    INDEX 01 11:05:75
+    INDEX 01 11:06:00
   TRACK 507 AUDIO
     TITLE "LR_black_phrase_E_05_507"
     INDEX 01 11:07:09
@@ -1571,7 +1571,7 @@ FILE "LR_black_phrase_E_05.mp3" MP3
     INDEX 01 11:28:70
   TRACK 524 AUDIO
     TITLE "LR_black_phrase_E_05_524"
-    INDEX 01 11:29:75
+    INDEX 01 11:30:00
   TRACK 525 AUDIO
     TITLE "LR_black_phrase_E_05_525"
     INDEX 01 11:31:16
@@ -1589,7 +1589,7 @@ FILE "LR_black_phrase_E_05.mp3" MP3
     INDEX 01 11:36:70
   TRACK 530 AUDIO
     TITLE "LR_black_phrase_E_05_530"
-    INDEX 01 11:37:75
+    INDEX 01 11:38:00
   TRACK 531 AUDIO
     TITLE "LR_black_phrase_E_05_531"
     INDEX 01 11:39:01

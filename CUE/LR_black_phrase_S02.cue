@@ -86,7 +86,7 @@ FILE "LR_black_phrase_S02.mp3" MP3
     INDEX 01 00:34:17
   TRACK 29 AUDIO
     TITLE "LR_black_phrase_S02_029"
-    INDEX 01 00:35:75
+    INDEX 01 00:36:00
   TRACK 30 AUDIO
     TITLE "LR_black_phrase_S02_030"
     INDEX 01 00:36:22
@@ -221,7 +221,7 @@ FILE "LR_black_phrase_S02.mp3" MP3
     INDEX 01 01:36:38
   TRACK 74 AUDIO
     TITLE "LR_black_phrase_S02_074"
-    INDEX 01 01:36:75
+    INDEX 01 01:37:00
   TRACK 75 AUDIO
     TITLE "LR_black_phrase_S02_075"
     INDEX 01 01:39:65
@@ -461,7 +461,7 @@ FILE "LR_black_phrase_S02.mp3" MP3
     INDEX 01 03:29:36
   TRACK 154 AUDIO
     TITLE "LR_black_phrase_S02_154"
-    INDEX 01 03:29:75
+    INDEX 01 03:30:00
   TRACK 155 AUDIO
     TITLE "LR_black_phrase_S02_155"
     INDEX 01 03:32:15
@@ -497,7 +497,7 @@ FILE "LR_black_phrase_S02.mp3" MP3
     INDEX 01 03:47:01
   TRACK 166 AUDIO
     TITLE "LR_black_phrase_S02_166"
-    INDEX 01 03:47:75
+    INDEX 01 03:48:00
   TRACK 167 AUDIO
     TITLE "LR_black_phrase_S02_167"
     INDEX 01 03:50:34

@@ -260,7 +260,7 @@ FILE "LR_black_phrase_E_B04.mp3" MP3
     INDEX 01 01:57:42
   TRACK 87 AUDIO
     TITLE "LR_black_phrase_E_B04_087"
-    INDEX 01 01:58:75
+    INDEX 01 01:59:00
   TRACK 88 AUDIO
     TITLE "LR_black_phrase_E_B04_088"
     INDEX 01 01:59:29

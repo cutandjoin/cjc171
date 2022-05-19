@@ -263,7 +263,7 @@ FILE "LR_black_phrase_B02.mp3" MP3
     INDEX 01 01:57:36
   TRACK 88 AUDIO
     TITLE "LR_black_phrase_B02_088"
-    INDEX 01 01:57:75
+    INDEX 01 01:58:00
   TRACK 89 AUDIO
     TITLE "LR_black_phrase_B02_089"
     INDEX 01 02:00:01
@@ -323,7 +323,7 @@ FILE "LR_black_phrase_B02.mp3" MP3
     INDEX 01 02:26:36
   TRACK 108 AUDIO
     TITLE "LR_black_phrase_B02_108"
-    INDEX 01 02:26:75
+    INDEX 01 02:27:00
   TRACK 109 AUDIO
     TITLE "LR_black_phrase_B02_109"
     INDEX 01 02:29:05
@@ -338,7 +338,7 @@ FILE "LR_black_phrase_B02.mp3" MP3
     INDEX 01 02:32:48
   TRACK 113 AUDIO
     TITLE "LR_black_phrase_B02_113"
-    INDEX 01 02:33:75
+    INDEX 01 02:34:00
   TRACK 114 AUDIO
     TITLE "LR_black_phrase_B02_114"
     INDEX 01 02:34:39
@@ -347,7 +347,7 @@ FILE "LR_black_phrase_B02.mp3" MP3
     INDEX 01 02:36:01
   TRACK 116 AUDIO
     TITLE "LR_black_phrase_B02_116"
-    INDEX 01 02:36:75
+    INDEX 01 02:37:00
   TRACK 117 AUDIO
     TITLE "LR_black_phrase_B02_117"
     INDEX 01 02:39:01
@@ -563,7 +563,7 @@ FILE "LR_black_phrase_B02.mp3" MP3
     INDEX 01 04:13:35
   TRACK 188 AUDIO
     TITLE "LR_black_phrase_B02_188"
-    INDEX 01 04:13:75
+    INDEX 01 04:14:00
   TRACK 189 AUDIO
     TITLE "LR_black_phrase_B02_189"
     INDEX 01 04:15:58
@@ -581,7 +581,7 @@ FILE "LR_black_phrase_B02.mp3" MP3
     INDEX 01 04:20:36
   TRACK 194 AUDIO
     TITLE "LR_black_phrase_B02_194"
-    INDEX 01 04:20:75
+    INDEX 01 04:21:00
   TRACK 195 AUDIO
     TITLE "LR_black_phrase_B02_195"
     INDEX 01 04:22:13
@@ -674,7 +674,7 @@ FILE "LR_black_phrase_B02.mp3" MP3
     INDEX 01 04:57:43
   TRACK 225 AUDIO
     TITLE "LR_black_phrase_B02_225"
-    INDEX 01 04:59:75
+    INDEX 01 05:00:00
   TRACK 226 AUDIO
     TITLE "LR_black_phrase_B02_226"
     INDEX 01 05:00:72
@@ -689,7 +689,7 @@ FILE "LR_black_phrase_B02.mp3" MP3
     INDEX 01 05:05:46
   TRACK 230 AUDIO
     TITLE "LR_black_phrase_B02_230"
-    INDEX 01 05:05:75
+    INDEX 01 05:06:00
   TRACK 231 AUDIO
     TITLE "LR_black_phrase_B02_231"
     INDEX 01 05:08:23

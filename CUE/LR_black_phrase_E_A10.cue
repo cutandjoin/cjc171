@@ -80,7 +80,7 @@ FILE "LR_black_phrase_E_A10.mp3" MP3
     INDEX 01 00:34:44
   TRACK 27 AUDIO
     TITLE "LR_black_phrase_E_A10_027"
-    INDEX 01 00:35:75
+    INDEX 01 00:36:00
   TRACK 28 AUDIO
     TITLE "LR_black_phrase_E_A10_028"
     INDEX 01 00:36:20

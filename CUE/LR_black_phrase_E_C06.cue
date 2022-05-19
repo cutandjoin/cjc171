@@ -110,10 +110,10 @@ FILE "LR_black_phrase_E_C06.mp3" MP3
     INDEX 01 00:45:01
   TRACK 37 AUDIO
     TITLE "LR_black_phrase_E_C06_037"
-    INDEX 01 00:46:75
+    INDEX 01 00:47:00
   TRACK 38 AUDIO
     TITLE "LR_black_phrase_E_C06_038"
-    INDEX 01 00:47:75
+    INDEX 01 00:48:00
   TRACK 39 AUDIO
     TITLE "LR_black_phrase_E_C06_039"
     INDEX 01 00:49:05

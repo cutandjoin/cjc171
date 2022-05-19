@@ -173,7 +173,7 @@ FILE "LR_black_phrase_E_B03.mp3" MP3
     INDEX 01 01:11:48
   TRACK 58 AUDIO
     TITLE "LR_black_phrase_E_B03_058"
-    INDEX 01 01:11:75
+    INDEX 01 01:12:00
   TRACK 59 AUDIO
     TITLE "LR_black_phrase_E_B03_059"
     INDEX 01 01:15:12
@@ -422,7 +422,7 @@ FILE "LR_black_phrase_E_B03.mp3" MP3
     INDEX 01 03:00:58
   TRACK 141 AUDIO
     TITLE "LR_black_phrase_E_B03_141"
-    INDEX 01 03:01:75
+    INDEX 01 03:02:00
   TRACK 142 AUDIO
     TITLE "LR_black_phrase_E_B03_142"
     INDEX 01 03:02:20
